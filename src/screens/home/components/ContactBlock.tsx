@@ -22,18 +22,18 @@ const ContactBlock = () => {
     const onMouseOverLinked = () => {
         setColorLinked({icon: colors.white, bg: colors.linked})
     }
-    const onMouseOverFacebook = () => {
-        setColorFacebook({icon: colors.white, bg: colors.facebook})
-    }
+    // const onMouseOverFacebook = () => {
+    //  setColorFacebook({icon: colors.white, bg: colors.facebook})
+    // }
     const onMouseLeave = () => {
         setColorLinked(initColor)
         // setColorGitHub(initColor)
-        setColorFacebook(initColor)
+        // setColorFacebook(initColor)
     }
 
     const renderIconLinked = <LinkedinFilled style={{...styles.icon, color: colorLinked.icon}} />
     // const renderIconGitHub = <GithubFilled style={{...styles.icon, color: colorGitHub.icon}} />
-    const renderIconFacebook = <FacebookFilled style={{...styles.icon, color: colorFacebook.icon}} />
+    // const renderIconFacebook = <FacebookFilled style={{...styles.icon, color: colorFacebook.icon}} />
     return <Row align={'middle'}>
         <Button onClick={() => onLink(LINK_IN_WEB.mailTo)} style={styles.btn}>Contact me</Button>
         <Spacer w={10} />
