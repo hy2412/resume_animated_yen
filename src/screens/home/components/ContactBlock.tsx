@@ -53,13 +53,13 @@ const ContactBlock = () => {
             icon={renderIconGitHub}
         /> */}
         <Spacer w={10} />
-        <Button
+        {/* <Button
             onMouseOver={onMouseOverFacebook}
             onMouseLeave={onMouseLeave}
             onClick={() => onLink(LINK_IN_WEB.fb)}
             style={{...styles.btnNone, backgroundColor: colorFacebook.bg}}
             icon={renderIconFacebook}
-        />
+        /> */}
     </Row>
 }
 export default ContactBlock
