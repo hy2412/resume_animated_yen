@@ -15,19 +15,17 @@ export const DATA_ROW_FIRST = [
 			"• Black-box & Gray-box Testing.",
 			"• System Architecture Understanding.",
 			"• Database Query (SQL & MongoDB).",
-			"",
-			"",
 		],
 	},
 	{
 		title: "Technical",
 		lottie: serviceData,
 		content: [
-			"• Requirement Analysis & Risk Assessment.",
+			"• Requirement Analysis.",
 			"• Test Plan & Test Case Design.",
 			"• Test Execution & Defect Reporting.",
-			"• API Testing, Database Testing.",
-			"• Production Issue Handling & Root Cause Analysis.",
+			"• API & Database Testing.",
+			"• Production Issue Handling.",
 		],
 	},
 	{
@@ -39,8 +37,6 @@ export const DATA_ROW_FIRST = [
 			"• Figma - Whimsical.",
 			"• Microsoft SSMS - Robo 3T.",
 			"• JMeter - Sentry.",
-			"",
-			"",
 		],
 	},
 	{
@@ -52,8 +48,6 @@ export const DATA_ROW_FIRST = [
 			"• Problem-solving Mindset.",
 			"• Fast Learner & Self-driven.",
 			"• Effective Communication.",
-			"",
-			"",
 		],
 	},
 ]
