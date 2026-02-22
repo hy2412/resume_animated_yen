@@ -29,10 +29,6 @@ const Introduction = () => {
                     1500,
                     txtIntroductionSecond,
                     1500,
-                    txtIntroductionThird,
-                    1500,
-                    txtIntroductionFour,
-                    1500,
                 ]}
                 wrapper="span"
                 cursor={true}
