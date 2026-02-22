@@ -7,18 +7,14 @@ import styles from '../styles';
 import Contacts from './Contacts';
 import {TypeAnimation} from 'react-type-animation';
 const Introduction = () => {
-    const txtIntroductionFirst = `Hey there, I'm Hoang Yen.`
-    const txtIntroductionSecond = `I'm a QC Engineer.`
-    const txtIntroductionThird = `Welcome to my portfolio.`
-    const txtIntroductionFour = `Let's connect and explore how we can collaborate!`
-    const txtContent = `Initially, I was a real non-tech, and my path to becoming a QC Engineer was quite unexpected. 
-    However, I am extremely passionate about this role. I never imagined that I would remain dedicated to it for over 5 years.`
-    const txtContent1 = `I've come to recognize that my meticulous attention to detail, fastidiousness, sense of responsibility, 
-    and passion for continuous learning have been pivotal in propelling me forward on this journey.
-    My pleasure to apply my knowledge to contribute to the success of the projects I worked on with the great teams.`
-    const txtContact = `Feel free to contact me to discuss how these qualities can contribute to enhancing quality control processes within your organization. 
-    I'm always eager to share insights, exchange ideas, and collaborate with others 
-    who are passionate about maintaining high standards to build up quality products that have a positive impact on the community.`
+    const txtIntroductionFirst = `Hi, I'm Hoang Yen.`
+    const txtIntroductionSecond = `Senior QA / QC Engineer.`
+    const txtContent = `With over 7 years of experience in product-based environments, I specialize in end-to-end system validation across frontend, backend, APIs, and databases. 
+    I have worked in Energy Trading, HealthTech, and ERP domains, supporting business-critical platforms with high accuracy and reliability requirements.`
+    const txtContent1 = `My expertise includes API testing, SQL and MongoDB data verification, integration testing, performance testing, and production issue handling via Sentry monitoring. 
+    I focus on risk-based testing strategies, root cause analysis, and cross-functional collaboration to ensure stable releases and prevent recurring incidents.`
+    const txtContact = `If you are looking for a QA professional who combines technical depth with business understanding and production ownership, feel free to connect. 
+    I’m always open to discussing how quality-driven thinking can strengthen your product and engineering processes.`
     const highLightTxtContent = [
         ""
     ]
