@@ -87,48 +87,45 @@ export const DATA_ROW_SECOND = [
 ]
 
 export const RESPONSIBILITY_REDEX = [
-	"• Read and analyse requirements.",
-	"• Create Test Plan, Test Cases.",
-	"• Execute test and tracking bugs on Jira.",
-	"• Integration testing with other projects and third-party.",
-	"• Using Postman for API Testing.",
-	"• Using SSMS for Data Checking.",
-	"• Using JMeter for Performance Testing.",
-	"• Coordinate closely with BA and PO to enhance the system.",
-	"• Maintain the Automation sources.",
-	"• Support Operation team in resolving problems.",
-	"• Summarize the report from QC team in all projects to the CTO weekly.",
+	"• Analyze business requirements and define test scope.",
+	"• Design Test Plans and Test Cases.",
+	"• Execute tests and manage defects in Jira.",
+	"• Perform integration testing with internal systems and third-party services.",
+	"• Conduct API testing using Postman.",
+	"• Validate data using Microsoft SSMS.",
+	"• Perform performance testing using JMeter.",
+	"• Collaborate closely with BA and PO to improve product quality.",
+	"• Maintain and update automation test scripts.",
+	"• Support Operations team in troubleshooting production issues.",
+	"• Prepare and present weekly QC reports to the CTO.",
 ]
 export const RESPONSIBILITY_YOUMED = [
-	"• Read and analyse requirements.",
-	"• UI and functional testing on Moblile Apps and Web Portal.",
-	"• Create Checklist, Test cases, Execute test, Report bug on Jira and report for IT Director.",
-	"• Using Postman to test API.",
-	"• Using Robo3T to check data in MongoDB.",
-	"• Support Sale team and Customer Service team in resolving problem.",
+	"• Analyze requirements and define test scenarios.",
+	"• Perform UI and functional testing on Mobile Apps and Web Portal.",
+	"• Create checklists and test cases; execute tests and report defects in Jira.",
+	"• Conduct API testing using Postman.",
+	"• Validate data in MongoDB using Robo 3T.",
+	"• Support Sales and Customer Service teams in issue resolution.",
 ]
 export const RESPONSIBILITY_TDA = [
-	"• Receiving requests from Clients.",
-	"• Analyst business and requirement.",
-	"• Testing: create checklist, execute test, report bugs on Redmine.",
-	"• Component testing, integration testing and user acceptance testing.",
-	"• Writing software manuals.",
-	"• Planning to implement software user guide for Clients.",
-	"• Support Developer team on Database structure.",
-	"• Support Clients in real operations on the system.",
-	"• Handling small arising bugs.",
-	"• Resolve Clients complaints.",
-	"• Monitoring the progress of project.",
-	"• Training domain knowledge for Customer Service team.",
+	"• Gather and analyze client requirements.",
+	"• Perform functional, integration, and user acceptance testing.",
+	"• Create test checklists and report defects on Redmine.",
+	"• Write user manuals and implementation guides.",
+	"• Support database structure validation with developers.",
+	"• Provide on-site system support for clients.",
+	"• Troubleshoot and resolve production issues.",
+	"• Monitor project progress and coordinate with stakeholders.",
+	"• Deliver domain knowledge training to Customer Service team.",
 ]
 export const DESCRIPTION_REDEX =
-	"The system provides Device and REC registration integrated with an internationally recognized REC registry, users can buy and sell RECs with advanced features such as buy, sell, limit orders, etc."
+	"A renewable energy trading platform providing device and REC registration integrated with an internationally recognized REC registry. The system enables users to trade RECs with advanced features such as buy, sell, and limit orders."
 export const DESCRIPTION_RECONNECT =
-	"The application enables income generation from grid-connected rooftop solar, encouraging people to install and use solar panels and reduce carbon emissions."
+	"A platform that enables income generation from grid-connected rooftop solar systems, promoting renewable energy adoption and reducing carbon emissions."
 export const DESCRIPTION_YOUMED =
-	"YouMed is an all-encompassing healthcare app connecting users with medical services, hospitals, and healthcare professionals. It offers convenient access to appointments, consultations, prescriptions, and online medical advice."
+	"YouMed is a comprehensive healthcare application connecting users with hospitals and medical professionals, providing appointment booking, consultations, prescriptions, and online medical advice."
 export const DESCRIPTION_TDA =
-	"This is a large system running on Windows used to manage hotel business activities, integrating many functional modules to serve all departments in the hotel (Reception, Sales, Accounting, Human Resources, etc). The system has been provided to more than 300 hotels nationwide."
+	"A large-scale Windows-based hotel management system serving over 300 hotels nationwide, integrating multiple modules including Reception, Sales, Accounting, and Human Resources."
 export const LINK_IN_WEB = {
 	mailTo: "mailto:lehoangyennt24@gmail.com",
 	linked: "https://www.linkedin.com/in/hoang-yen-le-45984a1b9/",
