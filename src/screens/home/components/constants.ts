@@ -15,6 +15,8 @@ export const DATA_ROW_FIRST = [
 			"• Black-box & Gray-box Testing.",
 			"• System Architecture Understanding.",
 			"• Database Query (SQL & MongoDB).",
+			"",
+			"",
 		],
 	},
 	{
@@ -37,6 +39,8 @@ export const DATA_ROW_FIRST = [
 			"• Figma - Whimsical.",
 			"• Microsoft SSMS - Robo 3T.",
 			"• JMeter - Sentry.",
+			"",
+			"",
 		],
 	},
 	{
@@ -48,6 +52,8 @@ export const DATA_ROW_FIRST = [
 			"• Problem-solving Mindset.",
 			"• Fast Learner & Self-driven.",
 			"• Effective Communication.",
+			"",
+			"",
 		],
 	},
 ]
