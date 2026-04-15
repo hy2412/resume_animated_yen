@@ -1,0 +1,6 @@
+messages:
+  - role: user
+    content: >
+      Scan the "resume_animated_yen" source code and suggest some enhancement
+      what can make the portfolio looks more profressional 
+model: openai/gpt-4o
